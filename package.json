@@ -1,0 +1,16 @@
+{
+  "name": "steadfast-procedure-close-z9u75",
+  "productName": "steadfast-procedure-close-z9u75",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "Jonnel",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "11.2.3"
+  }
+}
